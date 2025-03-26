@@ -1,9 +1,9 @@
 [Desktop Entry]
 Name=T-Chat 
 Comment=Run Terminal Chat Application
-Exec=gnome-terminal -- /home/sukanto/Code/Terminal\ Chat/ChatUpdate
-Icon=/home/sukanto/Code/Terminal Chat/WhatsApp icon.jpeg
+Exec=gnome-terminal -- "Full Path of run file"
+Icon="icon path"
 Terminal=false
 Type=Application
-Path=/home/sukanto/Code/Terminal Chat
+Path="Dir path of all file"
 StartupNotify=false
