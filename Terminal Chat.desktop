@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=T-Chat 
+Comment=Run Terminal Chat Application
+Exec=gnome-terminal -- /home/sukanto/Code/Terminal\ Chat/ChatUpdate
+Icon=/home/sukanto/Code/Terminal Chat/WhatsApp icon.jpeg
+Terminal=false
+Type=Application
+Path=/home/sukanto/Code/Terminal Chat
+StartupNotify=false
